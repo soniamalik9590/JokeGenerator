@@ -1,0 +1,25 @@
+body{
+    background-color: cornsilk;
+}
+img{
+    height:50px;
+    width:60px;
+    margin-top: 70px;
+    margin-left: 155px;
+}
+h5{
+    color:aliceblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 40px;
+    font-weight: lighter;
+}
+.container {
+    width: 400px;
+    height: 250px;
+    background:black;
+    position: absolute;
+    top: 16%;
+    left: 35%;
+    border-radius: 20px;
+}
